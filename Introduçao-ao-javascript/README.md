@@ -1,4 +1,6 @@
-#  <img src="C:\Users\usuario\Desktop\download.png" style="zoom:25%;" /> Curso de Javascript
+#  ![](C:\workspace\Dio\desafio-github-primeiro-repositorio\Introduçao-ao-javascript\img\js.png) 
+
+#  Curso de Javascript
 
 Abaixo estao listados os desafios de código do curso de introduçao ao javascript do bootcamp TQI Fullstack developer da DIO:
 
