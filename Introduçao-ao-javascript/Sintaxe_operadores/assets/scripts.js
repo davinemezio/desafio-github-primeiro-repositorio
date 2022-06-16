@@ -22,5 +22,4 @@ function numeros(a, b){
 
     alert(`Os números ${n1} e ${n2} ${comparacao} iguais. Sua soma é ${soma}, que é ${m10} que 10 e ${m20} que 20.`);
 }
- 
 numeros(n1,n2);

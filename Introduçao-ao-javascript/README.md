@@ -2,11 +2,19 @@
 
 #  Curso de Javascript
 
-Abaixo estao listados os desafios de código do curso de introduçao ao javascript do bootcamp TQI Fullstack developer da DIO:
+Abaixo estão listados os tarefas práticas do curso de introdução ao Javascript do bootcamp TQI Fullstack developer da DIO:
 
-1. **Contador**; e
+1. **Contador**;
 
-2. **To-do List**
+2. **To-do List**;
+
+3. **Sintaxe operadores**;
+
+4. **Palíndromo**;
+
+5. **Substitui Pares**;
+
+6. **Aprovados**;
 
    
 
