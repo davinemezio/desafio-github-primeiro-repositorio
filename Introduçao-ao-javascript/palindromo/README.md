@@ -1,13 +1,5 @@
-#  ![](C:\workspace\Dio\desafio-github-primeiro-repositorio\Introduçao-ao-javascript\img\js.png) 
+#  Exercício palíndromo
 
-#  Curso de Javascript
+A tarefa consiste em criar uma função que verifique se uma palavra é ou não um palíndromo.
 
-Abaixo estao listados os desafios de código do curso de introduçao ao javascript do bootcamp TQI Fullstack developer da DIO:
-
-1. **Contador**; e
-
-2. **To-do List**
-
-   
-
-   _Os arquivos README de ambos os desafios encontram-se dentro dos seus respectivos repositórios._
+_Não houve tratamento de erro por não ser parte do escopo da tarefa._

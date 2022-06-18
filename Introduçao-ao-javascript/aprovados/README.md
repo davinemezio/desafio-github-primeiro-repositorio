@@ -1,13 +1,5 @@
-#  ![](C:\workspace\Dio\desafio-github-primeiro-repositorio\Introduçao-ao-javascript\img\js.png) 
+#  Exercício aprovados
 
-#  Curso de Javascript
+A tarefa consiste em criar uma função que receba dois parâmetros: o primeiro é um array, que contém nome e média de alunos, e o segundo um valor, que será a média necessária para aprovação.  A função deve retornar um array com os nomes dos aprovados.
 
-Abaixo estao listados os desafios de código do curso de introduçao ao javascript do bootcamp TQI Fullstack developer da DIO:
-
-1. **Contador**; e
-
-2. **To-do List**
-
-   
-
-   _Os arquivos README de ambos os desafios encontram-se dentro dos seus respectivos repositórios._
+_Não houve tratamento de erro por não ser parte do escopo da tarefa._
