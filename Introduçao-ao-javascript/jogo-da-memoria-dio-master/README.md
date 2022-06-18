@@ -1,13 +1,13 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto jogo da memória
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Apresentação do projeto do jogo da memória.
 
-### Os requisitos são:
+### Observações:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+1. A base para o projeto foi apresentado em aula;
+2. Foram feitas modificações pontuais. O tema do projeto apresentado foram os "cards" dos vingadores; e
+3. O projeto seguiu as orientações propostas e está no repositório: https://github.com/davinemezio/desafio-github-primeiro-repositorio
 
 
-## 🚀 Let's code! 🚀
+
+## 
